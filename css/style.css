@@ -1611,3 +1611,30 @@ h6 {
     margin-bottom: 25px;
   }
 }
+
+
+
+#why-us ul li i {
+  font-size: 20px;
+  padding-right: 4px;
+  color: #1bb1dc;
+}
+
+#why-us  ul {
+  list-style: none;
+  padding: 0;
+}
+
+
+#team .member .member-info-content a {
+  color: #FFF;
+  height: 20px;
+}
+#team .member:hover .member-info-content {
+  height: 25px;
+}
+
+.su-youtube {
+  margin: 0 auto;
+  display: block;
+}
